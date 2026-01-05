@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Ericsson-logo.ico</file>
+    <file>Ericsson-logo.png</file>
+    <file>Ericsson-logo.svg</file>
+    <file>CaretDown.svg</file>
+    <file>ic_fluent_caret_down_24_filled.png</file>
+    <file>ArrowCircleRight.svg</file>
+    <file>CaretDown.svg</file>
+    <file>CaretRight.svg</file>
+    <file>ChevronCircleRight.svg</file>
+    <file>ChevronDown.svg</file>
+    <file>chevron-left-svgrepo-com.svg</file>
+    <file>ChevronUp.svg</file>
+    <file>CopyArrowRight.svg</file>
+    <file>DualScreenArrowRight.svg</file>
+    <file>ERIC_BIG.D-a6e54d97 (1).png</file>
+    <file>ERIC_BIG.D-a6e54d97 (1).svg</file>
+    <file>ERIC_BIG.D-a6e54d97.png</file>
+    <file>ERIC_BIG.D-a6e54d97.svg</file>
+    <file>ericsson-black-logo.ico</file>
+    <file>ic_fluent_caret_down_24_filled.png</file>
+    <file>ic_fluent_chevron_circle_right_24_filled.png</file>
+    <file>ic_fluent_chevron_down_24_filled.png</file>
+    <file>ic_fluent_chevron_up_24_filled.png</file>
+    <file>ic_fluent_info_24_filled.png</file>
+    <file>ic_fluent_navigation_unread_24_filled.svg</file>
+    <file>ic_fluent_person_24_filled.png</file>
+    <file>ic_fluent_person_24_filled.svg</file>
+    <file>ic_fluent_person_accounts_24_filled(1).png</file>
+    <file>ic_fluent_person_accounts_24_filled.png</file>
+    <file>ic_fluent_person_accounts_24_filled.svg</file>
+    <file>icons8-account-100.png</file>
+    <file>icons8-administrator-male-100.png</file>
+    <file>icons8-forward-100.png</file>
+    <file>icons8-info-100.png</file>
+    <file>icons8-left-arrow-100.png</file>
+    <file>icons8-menu-100.png</file>
+    <file>icons8-user-secured-100.png</file>
+    <file>Info.svg</file>
+    <file>Navigation.svg</file>
+    <file>Person.svg</file>
+    <file>PersonAccounts.svg</file>
+    <file>PersonArrowRight.svg</file>
+  </qresource>
+</RCC>
